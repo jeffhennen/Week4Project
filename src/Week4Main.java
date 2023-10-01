@@ -205,4 +205,5 @@ public class Week4Main {
 
         return listPrice * percentDownPayment;
     }
+
 }
